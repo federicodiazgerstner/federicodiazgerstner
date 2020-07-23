@@ -1,6 +1,6 @@
 # WELCOME LOST ONE! My name is Federico Díaz
 ---
-Software Development @ [UADE](https://uade.edu.ar/) \newline
+Software Development @ [UADE](https://uade.edu.ar/)  
 Front-End Development @ [CourseIT](https://courseit.com.ar/)
 
 
