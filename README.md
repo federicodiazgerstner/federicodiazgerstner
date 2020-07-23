@@ -6,4 +6,4 @@ Front-End Development @ [CourseIT](https://courseit.com.ar/)
 
 ![Image](https://github-readme-stats.vercel.app/api?username=fdgerstner&show_icons=true)
 
-![Image](https://imgur.com/a/7TvmgKv)
+![Image](https://i.imgur.com/H8Pk4r5.png)
