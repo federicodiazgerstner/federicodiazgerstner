@@ -1,7 +1,7 @@
 # WELCOME LOST ONE! My name is Federico Díaz
 
 Software Development @ [UADE](https://uade.edu.ar/)  
-Front-End Development @ [CourseIT](https://courseit.com.ar/)
+Front-End Development w/ React @ [CourseIT](https://courseit.com.ar/)
   
 ---
 Passionate about technology and eager to start my professional career as a Software Developer, I'm currently learning Front-End Development technologies @ CourseIT, where I'll learn Node.js, React.js, as well as HTML and CSS.  
