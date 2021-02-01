@@ -9,7 +9,7 @@ Passionate about technology and eager to start my professional career as a Softw
 I'm also taking a undergraduate degree @ UADE, where I started learning Python and I'll learn JAVA in the upcoming years.  
   
 Feel free to follow me on any of my social networks:  
-[<img src="https://i.imgur.com/ItZCchB.png">](https://twitter.com/fdgerstner)[<img src="https://i.imgur.com/8jzNZyr.png">](https://www.linkedin.com/in/federicodiazgerstner/)
+[<img src="https://ibb.co/S5bVczY">](https://twitter.com/fdgerstner)[<img src="https://ibb.co/8mfbM2f">](https://www.linkedin.com/in/federicodiazgerstner/)
 
 ---
 
