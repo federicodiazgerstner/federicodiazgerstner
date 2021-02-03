@@ -15,4 +15,4 @@ Feel free to follow me on any of my social networks:
 
 ![Image](https://github-readme-stats.vercel.app/api?username=fdgerstner&show_icons=true)
 
-![Image](https://i.ibb.co/BCPrtcB/carbon.png)
+![Image](https://i.ibb.co/CB5QC7X/carbon-1.png)
