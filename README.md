@@ -4,7 +4,7 @@ Software Development @ [UADE](https://uade.edu.ar/)
 Front-End Development w/ React @ [CourseIT](https://courseit.com.ar/)
   
 ---
-Passionate about technology and eager to start my professional career as a Software Developer, I've learned Front-End Development @ CourseIT, where I used React, Javascript, HTML & CSS as the core technologies for the practice projects.  
+Passionate about technology and eager to start my professional career as a Software Developer, I've learned Front-End Development @ CourseIT, where I used React, Javascript, HTML & CSS as the core technologies for the practice projects. I've learned Node.js watching helpful videos on social media.
   
 I'm also taking a undergraduate degree @ UADE, where I started learning Python and I'll learn JAVA in the upcoming years.  
   
