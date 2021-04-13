@@ -1,4 +1,4 @@
-# HELLO THERE! My name is Federico Díaz
+# HELLO THERE!
 
 Software Development @ [UADE](https://uade.edu.ar/)  
 Front-End Development w/ React @ [CourseIT](https://courseit.com.ar/)
