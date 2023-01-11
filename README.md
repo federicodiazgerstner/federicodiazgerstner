@@ -8,7 +8,7 @@ Passionate about technology and always looking forward in improving as a Softwar
   
 I'm also taking a undergraduate degree @ UADE, where I've learnt how to build robust apps using technologies such as React.js, Node.js, MongoDB, React Native.  
   
-Feel free to follow me on any of my social networks:  
+Feel free to follow me on any of my social networks and take a look at my GitLab https://gitlab.com/federicodiazgerstner:  
 [<img src="https://i.ibb.co/B2rgR2N/3848290321556105338-32.png">](https://twitter.com/fdgerstner)  [<img src="https://i.ibb.co/bBhgJCX/15792152941556105325-32.png">](https://www.linkedin.com/in/federicodiazgerstner/)
 
 ---
