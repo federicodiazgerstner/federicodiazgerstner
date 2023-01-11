@@ -11,8 +11,3 @@ I'm also taking a undergraduate degree @ UADE, where I've learnt how to build ro
 Feel free to follow me on any of my social networks and take a look at my GitLab https://gitlab.com/federicodiazgerstner:  
 [<img src="https://i.ibb.co/B2rgR2N/3848290321556105338-32.png">](https://twitter.com/fdgerstner)  [<img src="https://i.ibb.co/bBhgJCX/15792152941556105325-32.png">](https://www.linkedin.com/in/federicodiazgerstner/)
 
----
-
-![Image](https://github-readme-stats.vercel.app/api?username=fdgerstner&show_icons=true)
-
-![Image](https://i.ibb.co/CB5QC7X/carbon-1.png)
